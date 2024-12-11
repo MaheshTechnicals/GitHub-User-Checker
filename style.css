@@ -89,6 +89,7 @@ h3 {
   justify-content: space-between;
   width: 100%;
   padding: 10px 20px;
+  border: 1px solid #B7AE7A;
 }
 
 
@@ -108,4 +109,6 @@ h3 {
   background: #6715A9;
   color: white;
   font-size: 20px;
+  border-bottom: 5px solid#B7AE7A;
+  border-right: 5px solid #B7AE7A;
 }
